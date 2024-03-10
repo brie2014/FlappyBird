@@ -107,6 +107,8 @@ public class FlappyBird extends ApplicationAdapter {
 		/* DECIDE WHAT TO DO BASED ON gameState */
 		// gameState 1: Game is not started
 		if (gameState == 0) {
+			font.getData().setScale(6);
+			font.draw(batch, "Tap to Start", screenWidth/2-200, birdY + 300);
 			// Start the game on a touch event
 			if(Gdx.input.justTouched()){
 				gameState = 1;

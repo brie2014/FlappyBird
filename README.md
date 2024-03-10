@@ -1,8 +1,8 @@
 # Overview
 
-This repo contains a Flappy Bird mobile game application, created in Java. It demonstrates the fundamentals of mobile applications in Java and is developed using libGDX and Android Studio.
+This repo contains a recreation of the Flappy Bird mobile game application, created in Java. It demonstrates the fundamentals of mobile applications in Java and is developed using libGDX and Android Studio.
 
-[Software Demo Video]()
+[Demo Video](https://youtu.be/gi9pP2I-ZMI)
 
 # Development Environment
 
@@ -22,7 +22,7 @@ Setup
 Java Resources
 
 - [Java Documentation](https://docs.oracle.com/en/java/)
-- [Jave Tutorial (W3 Schools)](https://www.w3schools.com/java/)
+- [Java Tutorial (W3 Schools)](https://www.w3schools.com/java/)
 
 Tutorial Inspirations
 
